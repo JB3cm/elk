@@ -1,2 +1,2 @@
 git pull
-sh build.sh
+docker-compose up
